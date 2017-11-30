@@ -1,0 +1,16 @@
+{
+  "id" : "aedca577-3146-4401-becd-b86993b3bdcc",
+  "request" : {
+    "url" : "/example",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "[\"harshita\",\"paliwal\"]",
+    "headers" : {
+      "X-Application-Context" : "application:-1",
+      "Content-Type" : "application/json;charset=UTF-8"
+    }
+  },
+  "uuid" : "aedca577-3146-4401-becd-b86993b3bdcc"
+}

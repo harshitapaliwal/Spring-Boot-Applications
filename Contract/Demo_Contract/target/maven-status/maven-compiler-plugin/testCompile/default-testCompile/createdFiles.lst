@@ -1,0 +1,2 @@
+com\example\DemoApplicationTests.class
+org\springframework\cloud\contract\verifier\tests\ContractVerifierTest.class

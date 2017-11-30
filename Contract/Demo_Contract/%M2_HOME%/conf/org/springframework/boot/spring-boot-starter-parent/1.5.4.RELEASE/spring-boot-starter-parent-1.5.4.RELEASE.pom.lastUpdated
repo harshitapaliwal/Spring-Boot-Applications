@@ -1,0 +1,17 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Nov 24 10:42:15 IST 2017
+@default-WDPRT.latest-https\://nexus.disney.com/nexus/content/repositories/WDPRT-latest/.lastUpdated=1511500335780
+@default-WDW.public-https\://nexus.disney.com/nexus/content/groups/public/.lastUpdated=1511500335771
+http\://ssp-nexus1.wdw.disney.com\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:1.5.4.RELEASE from/to NGE.legacy (http\://ssp-nexus1.wdw.disney.com\:8081/nexus/content/groups/public)\: ssp-nexus1.wdw.disney.com
+https\://nexus.disney.com/nexus/content/groups/public/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:1.5.4.RELEASE from/to WDW.public (https\://nexus.disney.com/nexus/content/groups/public/)\: nexus.disney.com
+8aae82e174539a6f813f1c06d874984e24b9eddc@default-thirdparty-http\://ssp-nexus1.wdw.disney.com\:8081/nexus/content/repositories/thirdparty/.lastUpdated=1511500335784
+8aae82e174539a6f813f1c06d874984e24b9eddc@default-NGE.legacy-http\://ssp-nexus1.wdw.disney.com\:8081/nexus/content/groups/public/.lastUpdated=1511500335786
+https\://nexus.disney.com/nexus/content/repositories/WDPRT-latest/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:1.5.4.RELEASE from/to WDPRT.latest (https\://nexus.disney.com/nexus/content/repositories/WDPRT-latest/)\: nexus.disney.com
+@default-WDPRT.master-https\://nexus.disney.com/nexus/content/repositories/WDPRT-master/.lastUpdated=1511500335779
+@default-WDW.release-https\://nexus.disney.com/nexus/content/repositories/WDW-Releases/.lastUpdated=1511500335777
+http\://ssp-nexus1.wdw.disney.com\:8081/nexus/content/repositories/thirdparty/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:1.5.4.RELEASE from/to thirdparty (http\://ssp-nexus1.wdw.disney.com\:8081/nexus/content/repositories/thirdparty/)\: ssp-nexus1.wdw.disney.com
+https\://nexus.disney.com/nexus/content/repositories/central/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:1.5.4.RELEASE from/to DisneyCentral (https\://nexus.disney.com/nexus/content/repositories/central)\: nexus.disney.com
+https\://nexus.disney.com/nexus/content/repositories/WDW-Releases/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:1.5.4.RELEASE from/to WDW.release (https\://nexus.disney.com/nexus/content/repositories/WDW-Releases/)\: nexus.disney.com
+@default-DisneyCentral-https\://nexus.disney.com/nexus/content/repositories/central/.lastUpdated=1511500335793
+https\://nexus.disney.com/nexus/content/repositories/WDPRT-master/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:1.5.4.RELEASE from/to WDPRT-master (https\://nexus.disney.com/nexus/content/repositories/WDPRT-master)\: nexus.disney.com
+@default-WDPRT-master-https\://nexus.disney.com/nexus/content/repositories/WDPRT-master/.lastUpdated=1511500335790

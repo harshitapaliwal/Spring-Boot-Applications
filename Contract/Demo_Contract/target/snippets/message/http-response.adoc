@@ -1,0 +1,9 @@
+[source,http,options="nowrap"]
+----
+HTTP/1.1 200 OK
+X-Application-Context: application:-1
+Content-Type: application/json;charset=UTF-8
+Content-Length: 22
+
+["harshita","paliwal"]
+----

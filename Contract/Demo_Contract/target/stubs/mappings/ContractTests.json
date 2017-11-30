@@ -1,0 +1,11 @@
+{
+  "uuid" : "fd3ea5a6-3a82-4427-9490-0029f70600d4",
+  "request" : {
+    "url" : "/example",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "[\"harshita\",\"paliwal\"]"
+  }
+}
